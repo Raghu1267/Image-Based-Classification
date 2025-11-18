@@ -1,0 +1,6 @@
+streamlit
+ultralytics==8.2.0
+numpy
+pillow
+opencv-python-headless
+requests
